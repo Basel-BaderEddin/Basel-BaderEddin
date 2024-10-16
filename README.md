@@ -11,7 +11,7 @@ I'm currently still in highschool and learning. I love tinkering with things, th
 - 💻 Currently learning all kinds of technologies from full stack to low level languages.
 - 🇸🇾 I am originally syrian with circassian ancestry.
 - 🌱 Keen to explore all kinds of technologies
-- 🧪 I dream of one day hopefully becoming a prominent researcher
+- 🧪 I dream of one day hopefully becoming a prominent researcher in as many fields as I could dip my hands in
 
 # 📧 Get in touch
 
